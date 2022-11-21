@@ -256,7 +256,7 @@ function renderData(books){
   initializeSwiper('.books-slider')
   initializeFeatureSwiper('.featured-slider')
 }
-fetch("/books.json") //path to the file with json data
+fetch("./books.json") //path to the file with json data
   .then((response) => {
     return response.json();
   })
