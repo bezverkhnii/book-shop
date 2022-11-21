@@ -79,7 +79,7 @@ code.innerHTML = `
 
                 </div>
                 
-                <img src="/stand.png" class="stand" alt="">
+                <img src="./stand.png" class="stand" alt="">
             </div>
         </div>
     </section>
@@ -146,7 +146,7 @@ code.innerHTML = `
     </div>
 
     <div class="image">
-        <img src="/deal.png" alt="">
+        <img src="./deal.png" alt="">
     </div>
 
 </section>
