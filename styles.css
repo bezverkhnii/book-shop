@@ -228,7 +228,7 @@ section{
 
 
 .home{
-    background: url(./banner-bg.jpg) no-repeat;
+    background: url(././banner-bg.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
